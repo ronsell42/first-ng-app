@@ -1,0 +1,53 @@
+{
+  "todos": 
+  [
+    {
+      "title": "Buy groceries for the week",
+      "id": 0,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Schedule car maintenance at Toyota Service Center",
+      "id": 1,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Do laundry and fold clothes",
+      "id": 2,
+      "userId": 1,
+      "completed": true
+    },
+    {
+      "title": "Prepare PowerPoint for Monday’s project meeting",
+      "id": 3,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Cook dinner for family – adobo and rice",
+      "id": 4,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Read about ASP.NET Core MVC ViewModels",
+      "id": 5,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Clean and organize workspace",
+      "id": 6,
+      "userId": 1,
+      "completed": false
+    },
+    {
+      "title": "Pay electric and water bills",
+      "id": 7,
+      "userId": 1,
+      "completed": true
+    }
+  ]
+}

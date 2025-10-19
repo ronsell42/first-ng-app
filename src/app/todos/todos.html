@@ -1,1 +1,11 @@
-<p>todos works!</p>
+<h3>Todos List</h3>
+
+@if (!myTodoItems().length) {
+  <p>Loading...</p>
+}
+
+<ul class="todos">
+  @for (todo of myTodoItems(); track todo.id) {
+    <app-todo-item [todo] = 'todo' />
+  }
+</ul>
